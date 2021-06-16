@@ -1,0 +1,21 @@
+Back Story:
+
+Hello Will, 
+
+It was a pleasure speaking to you at the netwroking event last week. As you know from our discussion, CREATE (Carnevale Real Estate Applied Thinking Enterprises) is interested in an acquisition of location(s) around the Madison Square Garden area. We see COVID as an opportunity to make such an acquisition as the urban real estate market depressed during the pandemic, but we expect the market to normalize back to 2019 levels eventually. We'd love to utilize your data analysis expertise, using the publicly available MTA transit data, to discern actionable information on which subway locations around the Garden garner the most traffic, and what particular events have the greatest effect on drawing MTA traffic. Our goal is to develop and lease our acquired location(s) geared toward a complementary business to the biggest draws for MTA traffic. Please contact us at your earliest convenience so that we might begin taking next steps toward utilizing your services. 
+
+Sincerely, 
+Steve
+
+CREATE
+
+
+Proposed Approach (general idea): 
+
+1. use 10 years of MTA data (2010-2019) to illustrate overall 10-year trend (in a time series plot) of MTA usage (hopefully increasing or remaining constant)
+
+2. use MTA data from entire year of 2019 to illustrate time series plot of spikes in traffic on specific dates
+
+3. research events on the dates of spikes
+
+4. hypothesize what complementary businesses the land should be developed towards for lease 
