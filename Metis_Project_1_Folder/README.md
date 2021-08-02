@@ -1,4 +1,4 @@
-###METIS PROJECT 1 FOLDER
+# METIS PROJECT 1 FOLDER
 
 `Metis_Project_1_Written_Description.pdf` contains an abstract of the project concept, a description of the project's data, the algorithms implemented, and the tools used.
 
